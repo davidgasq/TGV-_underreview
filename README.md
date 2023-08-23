@@ -3,9 +3,9 @@ The ToulGaitViz is a standalone software created with MATLAB (version R2019a, Th
 
 It provides a synthetic two-part graphical representation of the kinematic data from a 3D gait analysis.
 
-The first part is related to a synthetic visualization of key shortening and compensation biomarkers in comparison to a participant-adjusted norm obtained from previously published regressors.
+The first part is related to the quantification of limb clearance using the angular and centimetric methods at mid-swing, including a representation of the respective contributions of the pelvis, hip, knee and ankle to shortening and compensation strategies. 
 
-The second part is related to the quantification of limb clearance using the angular and centimetric methods at mid-swing, including a representation of the respective contributions of the pelvis, hip, knee and ankle to shortening and compensation strategies. 
+The second part is related to a synthetic visualization of key shortening and compensation biomarkers in comparison to a participant-adjusted norm obtained from previously published regressors.
 
 Details about the ToulGaitViz are available in the article: Montané E, Cormier C, Scandella M, Cangelosi A, Marque P, Moissenet F, Gasq D. 2023. ToulGaitViz - A tool for the systematic description of lower limb clearance during the swing phase of hemiparetic gait after stroke. A cohort study.
 Published in European Journal of Physical and Rehabilitation Medicine.
